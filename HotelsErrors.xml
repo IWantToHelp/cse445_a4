@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-stylesheet type="text/xsl" href="Courses.xsl"?> -->
-<Hotels
+<Hotel
    xmlns ="https://iwanttohelp.github.io/cse445_a4/Hotels"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="https://iwanttohelp.github.io/cse445_a4/Hotels Hotels.xsd">
@@ -9,7 +9,7 @@
         <Name>Westin</Name>
         <Phone>480-968-885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address>
             <Number>11</Number>
             <Street>E. 7th St</Street>
             <City>Tempe</City>
@@ -20,7 +20,6 @@
 
    <Hotel Rating="4.2">
       <Name>Holiday Inn Phoenix - Chandler</Name>
-      <Phone>480-203-2121</Phone>
       <Address NearestAirport="PHX">
          <Number>1200</Number>
          <Street>W Ocotillo Rd</Street>
@@ -39,11 +38,11 @@
          <City>Chandler</City>
          <State>AZ</State>
          <Zip>85226</Zip>
-      </Address>
    </Hotel>
 
    <Hotel Rating="4.2">
       <Name>Crowne Plaza Resort Phoenix - Chandler</Name>
+      <Name>Erm what the sigma</Name>
       <Phone>480-812-0900</Phone>
       <Address NearestAirport="PHX">
          <Number>One</Number>
@@ -140,4 +139,4 @@
          <Zip>86001</Zip>
       </Address>
    </Hotel>
-</Hotels>
+</Hotel>
