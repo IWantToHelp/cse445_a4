@@ -4,8 +4,8 @@
    targetNamespace="http://venus.sod.asu.edu/WSRepository/xml" 
    elementFormDefault="qualified" attributeFormDefault="unqualified"> -->
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-   xmlns="https://iwanttohelp.github.io/cse445_a4/Hotels"
-   targetNamespace="https://iwanttohelp.github.io/cse445_a4/Hotels" 
+   xmlns="https://iwanttohelp.github.io/cse445_a4/"
+   targetNamespace="https://iwanttohelp.github.io/cse445_a4/" 
    elementFormDefault="qualified" attributeFormDefault="unqualified">
    
    <xsd:annotation>
