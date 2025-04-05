@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- <?xml-stylesheet type="text/xsl" href="Courses.xsl"?> -->
 <Hotels
-   xmlns ="https://iwanttohelp.github.io/cse445_a4/Hotels"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="https://iwanttohelp.github.io/cse445_a4/Hotels Hotels.xsd">
+    xsi:noNamespaceSchemaLocation="Hotels.xsd">
    
    <Hotel Rating="4.2">
         <Name>Westin</Name>
