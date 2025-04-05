@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
 <Hotels
    xmlns ="https://iwanttohelp.github.io/cse445_a4/"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -140,3 +141,4 @@
       </Address>
    </Hotel>
 </Hotels>
+</root>
