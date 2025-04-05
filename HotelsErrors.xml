@@ -20,7 +20,7 @@
 
    <Hotel Rating="4.2">
       <Name>Holiday Inn Phoenix - Chandler</Name>
-      <Address NearestAirport="PHX">
+      <Address NearstAirport="PHX">
          <Number>1200</Number>
          <Street>W Ocotillo Rd</Street>
          <City>Chandler</City>
@@ -32,7 +32,7 @@
    <Hotel Rating="4.5">
       <Name>Cambria Hotel Phoenix Chandler</Name>
       <Phone>520-448-3434</Phone>
-      <Address NearestAirport="PHX">
+      <Address NearstAirport="PHX">
          <Number>3165</Number>
          <Street>W Frye Rd</Street>
          <City>Chandler</City>
@@ -44,7 +44,7 @@
       <Name>Crowne Plaza Resort Phoenix - Chandler</Name>
       <Name>Erm what the sigma</Name>
       <Phone>480-812-0900</Phone>
-      <Address NearestAirport="PHX">
+      <Address NearstAirport="PHX">
          <Number>One</Number>
          <Street>N San Marcos Pl</Street>
          <City>Chandler</City>
@@ -56,7 +56,7 @@
    <Hotel Rating="4.9">
       <Name>Everhome Suites Chandler</Name>
       <Phone>480-409-9447</Phone>
-      <Address NearestAirport="PHX">
+      <Address NearstAirport="PHX">
          <Number>3200</Number>
          <Street>W Willis Rd</Street>
          <City>Chandler</City>
@@ -68,7 +68,7 @@
    <Hotel Rating="4.3">
       <Name>Marriott Phoenix Resort Tempe</Name>
       <Phone>602-225-9000</Phone>
-      <Address NearestAirport="PHX">
+      <Address NearstAirport="PHX">
          <Number>2000</Number>
          <Street>W Westcourt Way</Street>
          <City>Tempe</City>
@@ -80,7 +80,7 @@
    <Hotel Rating="4.1">
       <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
       <Phone>480-897-7444</Phone>
-      <Address NearestAirport="PHX">
+      <Address NearstAirport="PHX">
          <Number>4400</Number>
          <Street>S Rural Rd</Street>
          <City>Tempe</City>
@@ -93,7 +93,7 @@
         <Name>Grand Pacific Resort</Name>
         <Phone>480-555-1234</Phone>
         <Phone>480-555-5678</Phone>
-        <Address NearestAirport="PHX">
+        <Address NearstAirport="PHX">
             <Number>1200</Number>
             <Street>Resort Drive</Street>
             <City>Scottsdale</City>
@@ -105,7 +105,7 @@
    <Hotel Rating="3.8">
         <Name>Downtown Business Hotel</Name>
         <Phone>602-555-2468</Phone>
-        <Address NearestAirport="PHX">
+        <Address NearstAirport="PHX">
             <Number>350</Number>
             <Street>Central Avenue</Street>
             <City>Phoenix</City>
@@ -117,7 +117,7 @@
    <Hotel Rating="4.3">
       <Name>Arizona Grand Resort and Spa</Name>
       <Phone>877-800-4888</Phone>
-      <Address NearestAirport="PHX">
+      <Address NearstAirport="PHX">
          <Number>8000</Number>
          <Street>South Arizona Grand E</Street>
          <City>Phoenix</City>
@@ -131,7 +131,7 @@
       <Phone>928-555-3698</Phone>
       <Phone>928-555-7412</Phone>
       <Phone>928-555-9631</Phone>
-      <Address NearestAirport="FLG">
+      <Address NearstAirport="FLG">
          <Number>789</Number>
          <Street>Pine Forest Road</Street>
          <City>Flagstaff</City>
