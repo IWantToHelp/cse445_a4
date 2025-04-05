@@ -2,7 +2,7 @@
    xmlns ="https://iwanttohelp.github.io/cse445_a4/"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="https://iwanttohelp.github.io/cse445_a4/ Hotels.xsd">
-   
+   <!-- Hotels pulled from google maps, defaulted nearest airport to PHX for most hotels -->
    <Hotel Rating="4.2">
         <Name>Westin</Name>
         <Phone>480-968-885</Phone>

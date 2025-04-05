@@ -1,4 +1,5 @@
-﻿<Hotel
+﻿<!-- Hotels to Hotel -->
+<Hotel
    xmlns ="https://iwanttohelp.github.io/cse445_a4/Hotels"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="https://iwanttohelp.github.io/cse445_a4/Hotels Hotels.xsd">
@@ -7,6 +8,7 @@
         <Name>Westin</Name>
         <Phone>480-968-885</Phone>
         <Phone>800-937-8461</Phone>
+        <!-- required nearest airport not provided -->
         <Address>
             <Number>11</Number>
             <Street>E. 7th St</Street>
@@ -18,6 +20,7 @@
 
    <Hotel Rating="4.2">
       <Name>Holiday Inn Phoenix - Chandler</Name>
+      <!-- No phone number -->
       <Address NearstAirport="PHX">
          <Number>1200</Number>
          <Street>W Ocotillo Rd</Street>
@@ -36,9 +39,11 @@
          <City>Chandler</City>
          <State>AZ</State>
          <Zip>85226</Zip>
+      <!-- Missing closing addresss -->
    </Hotel>
 
    <Hotel Rating="4.2">
+   <!-- Multiple names -->
       <Name>Crowne Plaza Resort Phoenix - Chandler</Name>
       <Name>Erm what the sigma</Name>
       <Phone>480-812-0900</Phone>
