@@ -25,25 +25,26 @@
    <xsd:element name="Hotel">
       <xsd:complexType>
          <xsd:sequence>
-            <xsd:element name="Name" type="NameType" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
             <xsd:element name="Phone" type="PhoneType" minOccurs="1" maxOccurs="unbounded"/>
             <xsd:element name="Address" type="AddressType" minOccurs="1" maxOccurs="1"/>
          </xsd:sequence>
-         <xsd:attribute name="Rating" type="xsd:float"/> 
+         <xsd:attribute name="Rating" type="xsd:decimal"/> 
       </xsd:complexType>
    </xsd:element>
 
-
-   <xsd:simpleType name="NameType">
+   <!-- not necessary -->
+   <!-- <xsd:simpleType name="NameType">
       <xsd:restriction base="xsd:string">
       </xsd:restriction>
-   </xsd:simpleType>
-
+   </xsd:simpleType> -->
+   <!-- ensures phone numbers of a certain format, maybe not necessary -->
    <xsd:simpleType name="PhoneType">
       <xsd:restriction base="xsd:string">
          <xsd:pattern value="\d{3}\-\d{3}-\d{4}"/>
       </xsd:restriction>
    </xsd:simpleType>
+
    <xsd:complexType name="AddressType">
       <xsd:sequence>
       <!-- Not sure if should be string or integer for address number -->
